@@ -28,4 +28,5 @@ When doing this you should be able to appreciate some color artifacts:
 <img src="screenshots/device-2018-07-06-145552.png" height="400" alt="Screenshot"/> 
 <img src="screenshots/device-2018-07-06-145643.png" height="400" alt="Screenshot"/> 
 
-Any other value different than 1.0 for the white point will show the problem.
+I've added a SeekBar to manually change the white point between 0 and 1, any value different than 1.0 should show some kind of color artifact.
+AE is in auto mode and it gets locked once you move the SeekBar for the first time, so it's easy to make comparisons.
