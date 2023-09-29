@@ -3,6 +3,7 @@ Android Camera2 Tonemap Issue Test
 ===================================
 
 This sample app is based in the Camera2Basic sample. It has been made to demonstrate a problem when using a TonemapCurve with the Camera2 API.
+UPDATE: This issue was solved on Android 11.
 
 Introduction
 ------------
